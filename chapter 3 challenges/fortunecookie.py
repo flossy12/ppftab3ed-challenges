@@ -1,5 +1,4 @@
 # Fortune Cookie Program
-# By Claire Walker
 
 import random
 

@@ -1,5 +1,4 @@
 # coin toss program
-# by Claire Walker
 
 import random
 tosses = 0

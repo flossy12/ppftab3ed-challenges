@@ -1,3 +1,5 @@
+# Guess the number program
+# User picks a number and the game tries to guess the number
 import random
 
 highnumber = 101
